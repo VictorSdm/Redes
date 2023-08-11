@@ -1,0 +1,15 @@
+# Redes
+Teste de Redes e seus conceitos utilizando a ferramenta Cisco Packet Trace,
+para criação de ambientes e deste de configuração de redes, apredndendo a configurar 
+tanto um roteador a servidor com serviços de redes.
+Entre principais conceitos aprendido:
+
+-Modelagem de Departamento
+-IP estático
+-DHCP IP
+-Vlan
+-Separação de Redes
+-configuração de Roteadores
+-configuração de Servers
+-Tupologia 
+-Tipos de cabos 
