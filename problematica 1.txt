@@ -1,0 +1,5 @@
+Construir um laboratorio de informatica com uma recepção com wifi para alunos 
+regras :
+1 roteador wifi para cada laboratorio	1 roteador para recepção
+1 servidor DHCP 
+Vlans para os laboratorios 
