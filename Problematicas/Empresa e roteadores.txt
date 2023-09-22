@@ -1,0 +1,2 @@
+desenvolver uma rede wi-fi para clientes,
+deve ter roteadores espalhados pela empresa, com DHCP e IP fixo, ter impressoras de redes em cada departamento, deve ter também 2 servidores e varios celulares em outro rage de IP.
